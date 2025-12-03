@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Devansh!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev7774&label=Profile%20views&color=0e75b6&style=flat" alt="devansh7774" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmca&label=Profile%20views&color=0e75b6&style=flat" alt="devansh7774" /> </p>
 
 ## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator**
 
@@ -46,13 +46,13 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years
 ## 📊 GitHub Stats
 
 ### 🔥 My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev7774&theme=merko&fire=00ffcc&ring=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&background=000000&border=000000&stroke=00ffcc)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshmca&theme=merko&fire=00ffcc&ring=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&background=000000&border=000000&stroke=00ffcc)
 
 ### 💻 GitHub Profile Stats
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev7774&show_icons=true&count_private=true&include_all_commits=true&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10)
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshmca&show_icons=true&count_private=true&include_all_commits=true&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10)
 
 ### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7774&layout=compact&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshmca&layout=compact&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10&count_private=true)
 
 ---
 
