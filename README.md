@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **10 year
 
 ## 🌐 Connect With Me  
 
-- 💼 [Upwork Profile]([https://www.upwork.com/freelancers/~010456c28aa0a19c78?mp_source=share)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~019944ec3ce6e3e34d)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/umesh-patel-kadi/)
 
 
