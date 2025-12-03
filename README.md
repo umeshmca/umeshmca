@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmca&label=Profile%20views&color=0e75b6&style=flat" alt="devansh7774" /> </p>
 
-## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator**
+## 🎯 **Passionate Full Stack Developer | Laravel Developer | PHP Developer | Python | React | Node | Vue
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time available**, I am committed to delivering high-quality projects to meet client goals.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **10 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app** using technologies like **Laravel, php, react, node, python, vue, wordpress, bigcommerce**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time available**, I am committed to delivering high-quality projects to meet client goals.
 
 ---
 
@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years
 
 ## 🚀 Technologies I Work With
 
-- **Frontend**: React, Next.js, Angular 10 +, JavaScript, jQuery, HTML5, CSS3, SCSS, Bootstrap
-- **Backend**: .Net Core Web API, EF core(ORM), .Net MVC, Node Js, sequelize(ORM), Nest Js, Django,RabbitMQ
+- **Frontend**: React, Next.js, php, JavaScript, jQuery, HTML5, CSS3, SCSS, Bootstrap
+- **Backend**: Laravel, php, Node Js, sequelize(ORM), Nest Js, Django,RabbitMQ
 - **Cloud**: Azure, AWS (Code Deploy, S3, EC2, SES)
 - **Databases**: PostgreSQL, MongoDB, MS SQL Server, My SQL Server, Firestore
 - **Frameworks**: NodeJS, Nest Js, Next Js, MVC, Software Development
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years
 ## 🌐 Connect With Me  
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~010456c28aa0a19c78?mp_source=share)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ce-devansh1609/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/umesh-patel-kadi/))
 
 
 ---
